@@ -1,0 +1,7 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:categories/:title.html
+
+name: wcec-english.org
+
+exclude: ['doc']
