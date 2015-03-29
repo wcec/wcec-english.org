@@ -2,6 +2,12 @@ markdown: kramdown
 highlighter: pygments
 permalink: /:categories/:title.html
 
-name: wcec-english.org
+name: eng.wcec-home.org
+url: http://eng.wcec-home.org
+media_url: http://media.wcec-home.org/eng
 
 exclude: ['doc']
+
+gems:
+- jekyll-sitemap
+
