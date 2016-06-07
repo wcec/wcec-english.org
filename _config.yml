@@ -1,13 +1,14 @@
-markdown: kramdown
-highlighter: pygments
-permalink: /:categories/:title.html
+# Site settings
+title: "WCEC English Ministry"
+url: "http://h313.github.io/"
+baseurl: "wcec-em"
 
-name: eng.wcec-home.org
-url: http://eng.wcec-home.org
-media_url: http://media.wcec-home.org/eng
+# Contact
+phone: "(302) 239-4990"
+email: "hello@garrettboatman.com"
 
-exclude: ['doc']
+# Use this for production
+#sass:
+#    style: :compressed
 
-gems:
-- jekyll-sitemap
-
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
