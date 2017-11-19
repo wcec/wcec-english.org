@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Testing"
-date:   2016-05-01 18:08:44 -0400
-categories: test
----
-
-Please disregard.
